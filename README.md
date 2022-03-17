@@ -16,12 +16,16 @@ After:
 
 #How does replacing the ninth-grade scores affect the following:
   Math and reading scores by grade
+    
     It creates passing percentages a little bit more competitive with other schools since you are filtering out students that only passed both reading and math.
   Scores by school spending
+    
     For the Budget, specially for Thomas High School we see that is in the lower assigned budget but with on the large size for the school, replacing the numbers average     calculated for 10th to 12th significantly changed the overall performance of the school
   Scores by school size
+    
     Thomas High School is on the larger size school with I high overall passing percentage with the added mean calculations for the rest of the grades
   Scores by school type
+    
     It is clear that the better performing schools tend to be be charter schools
 
 #	Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
