@@ -1,11 +1,11 @@
 # School_District_Analysis
-##     	Overview of the school district analysis: Explain the purpose of this analysis.
+##Overview of the school district analysis: Explain the purpose of this analysis.
 The purpose of this analysis is how schools perform under different filters such as grade, budget, types and size. Also How changing our data affects the overall analysis of our data
 
-#How is the district summary affected?
-o	
+##How is the district summary affected?
+
 #How is the school summary affected?
-o	
+
 #How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     By replacing the scores we see a spike of in the schools performance in terms of number of students passing both reading and math
 Before:
